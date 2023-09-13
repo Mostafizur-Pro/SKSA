@@ -16,7 +16,7 @@
   
   <!-- Column 2 -->
   <figure>
-    <img src="assets/events/image2.jpg" alt="Album" class="w-full h-auto rounded-3xl" />
+    <img src="public/assert/events/image2.jpg" alt="Album" class="w-full h-auto rounded-3xl" />
   </figure>
 </div>
 

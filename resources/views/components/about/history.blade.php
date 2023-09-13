@@ -3,7 +3,7 @@
 
 <div class="hero  ">
     <div class="hero-content flex-col lg:flex-row">
-        <img src="assets/about/master.jpg" class="max-w-sm rounded-lg " />
+        <img src="public/assert/about/master.jpg" class="max-w-sm rounded-lg " />
         <div >
             <!-- <h1 class="text-5xl font-bold">Box Office News!</h1> -->
             <p class="py-6">松濤館, Shōtōkan is a style of karate, developed from various martial arts by Master Gichin Funakoshi (1868–1957) and his son Gigo (Yoshitaka) Funakoshi (1906–1945). Master Gichin Funakoshi was born in Okinawa and is widely credited with popularizing "KARATE-DO" through a series of public demonstrations, and by promoting the development of University Karate Clubs, including those at Keio, Waseda, Hitotsubashi (Shodai), Takushoku, Chuo, Gakushuin, and Hosei.</p>

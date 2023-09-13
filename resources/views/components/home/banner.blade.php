@@ -1,4 +1,4 @@
-<div class="hero h-96" style="background-image: url(assets/banner/banner.jpg);">
+<div class="hero h-96" style="background-image: url(public/assert/banner/banner.jpg);">
     <div class="hero-overlay bg-opacity-20"></div>
     <div class="hero-content text-neutral-content">
         <div class="mx-4 lg:mx-36">
