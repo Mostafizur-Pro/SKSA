@@ -3,12 +3,12 @@
   <p class="text-gray-400">OUR DOCTOR</p>
   <h1 class="text-3xl font-bold">Our Dedicated Doctors Team</h1>
   <div class="flex justify-center">
-    <img src="{{url('public/assert/logo/logo.png')}}" class="w-20 rounded-lg items-center" />
+    <img src="{{url('storage/logo/logo.png')}}" class="w-20 rounded-lg items-center" />
   </div>
 </div> -->
   <aside class="">
   <div  class="flex justify-center">
-  <img class='w-44 items-center' src="{{url('public/assert/logo/logo.png')}}" alt="image" />
+  <img class='w-44 items-center' src="{{url('storage/logo/logo.png')}}" alt="image" />
   </div>
     <p class="font-bold text-lg">Shotokan Karate-Do Sports Association</p>
   </aside> 

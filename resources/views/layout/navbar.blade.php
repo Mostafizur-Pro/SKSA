@@ -38,7 +38,7 @@
         </div>
         <a href="/" class="flex items-center normal-case text-2xl">
 
-            <!-- <img class='w-12' src="{{url('assets/logo/logo.png')}}" alt="image" /> -->
+            <!-- <img class='w-12' src="{{url('storage/logo/logo.png')}}" alt="image" /> -->
             <img class='w-12' src="{{asset('storage/logo/logo.png')}}" alt="image" />
             
             <h1 class="text-red-600 font-extrabold">ＳＫＳＡ </h1>

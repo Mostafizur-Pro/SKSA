@@ -1,5 +1,5 @@
 
-<div class="hero  h-64" style="background-image: url(public/assert/banner/banner.jpg);">
+<div class="hero  h-64" style="background-image: url(storage/banner/banner.jpg);">
   <div class="hero-overlay bg-opacity-20"></div>
     <div class="max-w-md  text-right">
       <h1 class="mb-5 text-6xl text-white font-bold">@yield('allPageBanner', 'Default Title')</h1>

@@ -8,11 +8,8 @@
         {
             "src": "/(.*)",
             "dest": "/api/index.php"
-        },
-        {
-            "src": "^/storage/(.*)",
-            "dest": "/public/storage/$1"
-          }
+        }
+     
     ],
     "env": {
         "APP_ENV": "production",
